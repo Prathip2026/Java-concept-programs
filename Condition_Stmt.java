@@ -1,0 +1,14 @@
+package org.text;
+
+public class Condition_Stmt {
+
+    public static void main (String[] args) {
+
+        int i =5;
+
+        if(i <= 5){
+            System.out.println("java");
+        }
+
+    }
+}
